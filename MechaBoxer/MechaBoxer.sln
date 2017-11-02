@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MechaBoxer", "MechaBoxer.csproj", "{4BF5C83B-D34B-5084-7BE4-A0B0D70D3E58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MechaBoxer.Editor", "MechaBoxer.Editor.csproj", "{4435A8BB-D669-4CA3-2B31-7DABF0BCB338}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{4BF5C83B-D34B-5084-7BE4-A0B0D70D3E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BF5C83B-D34B-5084-7BE4-A0B0D70D3E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BF5C83B-D34B-5084-7BE4-A0B0D70D3E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4435A8BB-D669-4CA3-2B31-7DABF0BCB338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4435A8BB-D669-4CA3-2B31-7DABF0BCB338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4435A8BB-D669-4CA3-2B31-7DABF0BCB338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4435A8BB-D669-4CA3-2B31-7DABF0BCB338}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

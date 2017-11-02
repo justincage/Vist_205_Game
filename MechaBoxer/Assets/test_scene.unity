@@ -185,6 +185,7 @@ GameObject:
   - component: {fileID: 1157588994}
   - component: {fileID: 1157588993}
   - component: {fileID: 1157588992}
+  - component: {fileID: 1157588997}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -255,13 +256,26 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1157588991}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 3.99, z: -15.35}
+  m_LocalRotation: {x: 0.080329575, y: -0, z: -0, w: 0.99676836}
+  m_LocalPosition: {x: 0, y: 9.2, z: -468.69998}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 9.215, y: 0, z: 0}
+--- !u!114 &1157588997
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1157588991}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 323c58c85b6ea984cb4e449548d582c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 1850805571}
+  offset: {x: 0, y: 3, z: -10}
 --- !u!1 &1541090978
 GameObject:
   m_ObjectHideFlags: 0
@@ -318,7 +332,7 @@ BoxCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1541090978}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 997f3514a578fc744ac87c4fcfa23c44, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -339,7 +353,7 @@ Transform:
   m_GameObject: {fileID: 1541090978}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 40}
-  m_LocalScale: {x: 15, y: 1, z: 100}
+  m_LocalScale: {x: 15, y: 1, z: 1000}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
@@ -422,7 +436,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1850805567}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -6}
+  m_LocalPosition: {x: 0, y: 1, z: -453.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -455,3 +469,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 1850805572}
+  forwardForce: 2000
+  sidewaysForce: 600

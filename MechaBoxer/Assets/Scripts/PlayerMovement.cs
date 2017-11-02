@@ -5,12 +5,32 @@ public class PlayerMovement : MonoBehaviour {
     // created a new rigidbody for the script to access (drag and drop)
     public Rigidbody rb;
 
-	
-	
-	// Unity likes FixedUpdate more than Update with Physics based interactions
-	void FixedUpdate ()
+    // force moving forward
+    public float forwardForce = 2000f;
+
+    // force moving to the side
+    public float sidewaysForce = 500f;
+
+
+    private void Update()
+    {
+        //Player movement (just keyed for now)
+        if (Input.GetKey("d"))
+        {
+           rb.AddForce(sidewaysForce * Time.deltaTime, 0, 0);
+        }
+        if (Input.GetKey("a"))
+        {
+            rb.AddForce(-sidewaysForce * Time.deltaTime, 0, 0);
+        }
+    }
+
+
+
+    // Unity likes FixedUpdate more than Update with Physics based interactions
+    void FixedUpdate ()
     {
         //adds a force to the rigidbody multiplied by a lesser value as time goes on
-        rb.AddForce(0, 0, 2000 * Time.deltaTime);
+        rb.AddForce(0, 0, forwardForce * Time.deltaTime);
     }
 }
