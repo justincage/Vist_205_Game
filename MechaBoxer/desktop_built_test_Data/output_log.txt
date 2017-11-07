@@ -1,0 +1,131 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7653
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\Google.ProtocolBuffers.dll (this message is harmless)
+Loading C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\Google.ProtocolBuffers.dll into Unity Child Domain
+- Completed reload, in  0.103 seconds
+Platform assembly: C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3840x1259 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7653
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\Google.ProtocolBuffers.dll (this message is harmless)
+Loading C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\Google.ProtocolBuffers.dll into Unity Child Domain
+- Completed reload, in  0.013 seconds
+Platform assembly: C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\GOLDENBOY\Documents\GitHub\Vist_205_Game\MechaBoxer\desktop_built_test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3840x1259 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.825996 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4554 -> priority: 1 
+  Thread -> id: 3e40 -> priority: 1 
+  Thread -> id: 2154 -> priority: 1 
+  Thread -> id: 3bc8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.366838 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 501.
+Total: 0.123145 ms (FindLiveObjects: 0.014051 ms CreateObjectMapping: 0.011241 ms MarkObjects: 0.095297 ms  DeleteObjects: 0.002299 ms)
+
+Test Level
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game Over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+loading next level
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.357429 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 480.
+Total: 0.133620 ms (FindLiveObjects: 0.013540 ms CreateObjectMapping: 0.011241 ms MarkObjects: 0.104750 ms  DeleteObjects: 0.004087 ms)
+
+Test Level
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game Over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+loading next level
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.299433 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 462.
+Total: 0.143584 ms (FindLiveObjects: 0.016862 ms CreateObjectMapping: 0.011497 ms MarkObjects: 0.110626 ms  DeleteObjects: 0.004343 ms)
+
+hit obstacle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game Over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.256000 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 462.
+Total: 0.121357 ms (FindLiveObjects: 0.010730 ms CreateObjectMapping: 0.011241 ms MarkObjects: 0.095553 ms  DeleteObjects: 0.003321 ms)
+
+Test Level
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game Over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+loading next level
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.295601 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 400.
+Total: 0.195960 ms (FindLiveObjects: 0.010730 ms CreateObjectMapping: 0.010986 ms MarkObjects: 0.095297 ms  DeleteObjects: 0.078690 ms)
+
